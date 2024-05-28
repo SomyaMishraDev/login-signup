@@ -29,8 +29,11 @@ const LoginSignup = () => {
         </div>
 
     </div>
+    <div className="forgot-password">Lost Password? <span>Click Here</span></div>
     <div className="submit_container">
-        
+    <div className="submit">Sign up</div>
+    <div className="submit">Login</div>
+
     </div>
     
 
